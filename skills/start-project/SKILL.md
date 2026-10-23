@@ -1,6 +1,6 @@
 ---
 name: start-project
-version: 1.3.0
+version: 1.4.0
 description: "新项目一站式启动总控技能。调用 brainstorming-guide 进行业务与技术方案澄清，在用户 Sign-off 后生成规则单入口 docs/PROJECT-RULES.md + 看板 docs/active-context.md + 跨工具入口 AGENTS.md，并经审阅闸门定稿。用户要启动新项目、初始化项目规则、建立 PROJECT-RULES / active-context / AGENTS.md，或项目缺少 docs/PROJECT-RULES.md 需要规则引导时使用。"
 ---
 
