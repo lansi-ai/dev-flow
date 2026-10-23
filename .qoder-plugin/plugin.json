@@ -1,0 +1,7 @@
+{
+  "name": "dev-flow",
+  "displayName": "开发流程",
+  "version": "1.2.0",
+  "description": "Development-process plugin: clarify before coding (5-dimension brainstorm + sign-off), project rules governance (PROJECT-RULES / active-context / AGENTS.md), task-driven entry (research → classify → register in tasks.yaml before work; status changes posted immediately, no todo→done jumps), task grading A/B/C, multi-track kanban routing (index + per-track boards), and a four-view offline task board (overview / kanban / tree / matrix) with a bundled PyYAML generator",
+  "descriptionZh": "先澄清（5 维头脑风暴 + Sign-off）再动手；自动生成 docs/PROJECT-RULES.md + active-context.md + AGENTS.md；任务驱动入口（调研定界→分类分级→登记 tasks.yaml 再开工，状态即时上板、禁 todo→done）；任务分级 A/B/C 并判定归属轨；单轨/多轨看板（多轨＝薄索引 + 分轨文件 + 任务看板 tasks.yaml→HTML + 归档）；四视图离线看板（概览/看板/树/矩阵）并自带 PyYAML 生成器；通用纪律与项目规则单源分工"
+}
